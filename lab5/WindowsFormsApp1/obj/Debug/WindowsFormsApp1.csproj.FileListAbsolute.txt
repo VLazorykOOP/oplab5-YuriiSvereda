@@ -7,3 +7,12 @@ E:\university\Semester4\lab5\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
 E:\university\Semester4\lab5\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
 E:\university\Semester4\lab5\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
 E:\university\Semester4\lab5\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\university\Semester4\практика\lab5\oplab5-YuriiSvereda\lab5\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\university\Semester4\практика\lab5\oplab5-YuriiSvereda\lab5\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\university\Semester4\практика\lab5\oplab5-YuriiSvereda\lab5\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\university\Semester4\практика\lab5\oplab5-YuriiSvereda\lab5\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+E:\university\Semester4\практика\lab5\oplab5-YuriiSvereda\lab5\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\university\Semester4\практика\lab5\oplab5-YuriiSvereda\lab5\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\university\Semester4\практика\lab5\oplab5-YuriiSvereda\lab5\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\university\Semester4\практика\lab5\oplab5-YuriiSvereda\lab5\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\university\Semester4\практика\lab5\oplab5-YuriiSvereda\lab5\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

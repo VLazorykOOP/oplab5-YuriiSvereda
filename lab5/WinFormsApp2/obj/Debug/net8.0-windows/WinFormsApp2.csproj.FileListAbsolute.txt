@@ -1,0 +1,17 @@
+E:\university\Semester4\практика\lab5\oplab5-YuriiSvereda\lab5\WinFormsApp2\bin\Debug\net8.0-windows\WinFormsApp2.exe
+E:\university\Semester4\практика\lab5\oplab5-YuriiSvereda\lab5\WinFormsApp2\bin\Debug\net8.0-windows\WinFormsApp2.deps.json
+E:\university\Semester4\практика\lab5\oplab5-YuriiSvereda\lab5\WinFormsApp2\bin\Debug\net8.0-windows\WinFormsApp2.runtimeconfig.json
+E:\university\Semester4\практика\lab5\oplab5-YuriiSvereda\lab5\WinFormsApp2\bin\Debug\net8.0-windows\WinFormsApp2.dll
+E:\university\Semester4\практика\lab5\oplab5-YuriiSvereda\lab5\WinFormsApp2\bin\Debug\net8.0-windows\WinFormsApp2.pdb
+E:\university\Semester4\практика\lab5\oplab5-YuriiSvereda\lab5\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.Form1.resources
+E:\university\Semester4\практика\lab5\oplab5-YuriiSvereda\lab5\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.csproj.GenerateResource.cache
+E:\university\Semester4\практика\lab5\oplab5-YuriiSvereda\lab5\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.GeneratedMSBuildEditorConfig.editorconfig
+E:\university\Semester4\практика\lab5\oplab5-YuriiSvereda\lab5\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.AssemblyInfoInputs.cache
+E:\university\Semester4\практика\lab5\oplab5-YuriiSvereda\lab5\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.AssemblyInfo.cs
+E:\university\Semester4\практика\lab5\oplab5-YuriiSvereda\lab5\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.csproj.CoreCompileInputs.cache
+E:\university\Semester4\практика\lab5\oplab5-YuriiSvereda\lab5\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.sourcelink.json
+E:\university\Semester4\практика\lab5\oplab5-YuriiSvereda\lab5\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.dll
+E:\university\Semester4\практика\lab5\oplab5-YuriiSvereda\lab5\WinFormsApp2\obj\Debug\net8.0-windows\refint\WinFormsApp2.dll
+E:\university\Semester4\практика\lab5\oplab5-YuriiSvereda\lab5\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.pdb
+E:\university\Semester4\практика\lab5\oplab5-YuriiSvereda\lab5\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.genruntimeconfig.cache
+E:\university\Semester4\практика\lab5\oplab5-YuriiSvereda\lab5\WinFormsApp2\obj\Debug\net8.0-windows\ref\WinFormsApp2.dll
