@@ -7,16 +7,8 @@
       "RelativeMoniker": "D:0:0:{09715C45-9D94-4C9B-9E64-C924A15A47FD}|WinFormsApp2\\WinFormsApp2.csproj|solutionrelative:winformsapp2\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B116C406-AFB8-477C-B70E-DAEE19FCC1D1}|WindowsFormsApp1\\WindowsFormsApp1.csproj|E:\\university\\Semester4\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\lab5\\oplab5-YuriiSvereda\\lab5\\windowsformsapp1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B116C406-AFB8-477C-B70E-DAEE19FCC1D1}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{09715C45-9D94-4C9B-9E64-C924A15A47FD}|WinFormsApp2\\WinFormsApp2.csproj|e:\\university\\semester4\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\lab5\\oplab5-yuriisvereda\\lab5\\winformsapp2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{09715C45-9D94-4C9B-9E64-C924A15A47FD}|WinFormsApp2\\WinFormsApp2.csproj|E:\\university\\Semester4\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\lab5\\oplab5-YuriiSvereda\\lab5\\winformsapp2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{09715C45-9D94-4C9B-9E64-C924A15A47FD}|WinFormsApp2\\WinFormsApp2.csproj|solutionrelative:winformsapp2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B116C406-AFB8-477C-B70E-DAEE19FCC1D1}|WindowsFormsApp1\\WindowsFormsApp1.csproj|E:\\university\\Semester4\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\lab5\\oplab5-YuriiSvereda\\lab5\\windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{B116C406-AFB8-477C-B70E-DAEE19FCC1D1}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,12 +18,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
@@ -46,6 +34,14 @@
             },
             {
               "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
               "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
@@ -54,16 +50,16 @@
               "Title": "Form1.Designer.cs",
               "DocumentMoniker": "E:\\university\\Semester4\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\lab5\\oplab5-YuriiSvereda\\lab5\\WinFormsApp2\\Form1.Designer.cs",
               "RelativeDocumentMoniker": "WinFormsApp2\\Form1.Designer.cs",
-              "ToolTip": "E:\\university\\Semester4\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\lab5\\oplab5-YuriiSvereda\\lab5\\WinFormsApp2\\Form1.Designer.cs*",
-              "RelativeToolTip": "WinFormsApp2\\Form1.Designer.cs*",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAgwC8AAAA9AAAA",
+              "ToolTip": "E:\\university\\Semester4\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\lab5\\oplab5-YuriiSvereda\\lab5\\WinFormsApp2\\Form1.Designer.cs",
+              "RelativeToolTip": "WinFormsApp2\\Form1.Designer.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAgwDYAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-30T20:48:51.41Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "E:\\university\\Semester4\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\lab5\\oplab5-YuriiSvereda\\lab5\\WinFormsApp2\\Form1.cs",
               "RelativeDocumentMoniker": "WinFormsApp2\\Form1.cs",
@@ -71,31 +67,6 @@
               "RelativeToolTip": "WinFormsApp2\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-30T20:48:39.916Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Form1.Designer.cs",
-              "DocumentMoniker": "E:\\university\\Semester4\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\lab5\\oplab5-YuriiSvereda\\lab5\\WindowsFormsApp1\\Form1.Designer.cs",
-              "RelativeDocumentMoniker": "WindowsFormsApp1\\Form1.Designer.cs",
-              "ToolTip": "E:\\university\\Semester4\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\lab5\\oplab5-YuriiSvereda\\lab5\\WindowsFormsApp1\\Form1.Designer.cs",
-              "RelativeToolTip": "WindowsFormsApp1\\Form1.Designer.cs",
-              "ViewState": "AQIAADgAAAAAAAAAAAAkwE4AAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-30T18:42:19.09Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "E:\\university\\Semester4\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\lab5\\oplab5-YuriiSvereda\\lab5\\WindowsFormsApp1\\Form1.cs",
-              "RelativeDocumentMoniker": "WindowsFormsApp1\\Form1.cs",
-              "ToolTip": "E:\\university\\Semester4\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\lab5\\oplab5-YuriiSvereda\\lab5\\WindowsFormsApp1\\Form1.cs [Design]",
-              "RelativeToolTip": "WindowsFormsApp1\\Form1.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-30T18:42:14.177Z",
               "EditorCaption": " [Design]"
             }
           ]

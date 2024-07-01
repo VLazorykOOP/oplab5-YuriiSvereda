@@ -13,7 +13,7 @@
     ],
     "additionalProbingPaths": [
       "C:\\Users\\Yurii\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\Yurii\\.nuget\\packages",
+      "C:\\Users\\Study\\.nuget\\packages",
       "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
     ],
     "configProperties": {
