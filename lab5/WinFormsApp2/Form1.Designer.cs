@@ -45,7 +45,7 @@
             g = pictureBox1.CreateGraphics();
             g.Clear(Color.White);
             int order = 8;
-            Draw(pictureBox1.Width / 2, pictureBox1.Height, 100, Math.PI / 2, order);
+            Draw(pictureBox1.Width / 2, pictureBox1.Height, 120, Math.PI / 2, order);
         }
 
 
